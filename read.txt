@@ -6,3 +6,4 @@ git is a very spical software
 三天之内鲲了你
 三天之内心想事成
 爱个锤子
+git checkout -b -dev
